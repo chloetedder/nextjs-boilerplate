@@ -26,6 +26,14 @@ export default function Home() {
               height={24}
               priority
             />
+            <Image
+              src="/chowchow.jpg"
+              alt="Vercel Dog"
+              className="dark:invert"
+              width={1000}
+              height={240}
+              priority
+            />
           </a>
         </div>
       </div>
